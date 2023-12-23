@@ -12,38 +12,20 @@ Churn rate, a key metric representing the number of customers who terminate or d
 
 The primary objective is to develop a robust predictive model capable of classifying potential churn customers based on a comprehensive set of numerical and categorical features. This poses a binary classification challenge, considering the inherent imbalance in the dataset.
 
-## Dataset Attributes
+1. **Dataset Overview and Attributes:**
+   Providing an in-depth look into the dataset, detailing various attributes such as customerID, gender, SeniorCitizen status, partnership, dependents, tenure, phone services, and more.
 
-- **customerID:** Customer ID
-- **gender:** Gender of the customer (Male or Female)
-- **SeniorCitizen:** Whether the customer is a senior citizen (1) or not (0)
-- **Partner:** Presence of a partner (Yes or No)
-- **Dependents:** Presence of dependents (Yes or No)
-- **tenure:** Number of months the customer has been with the company
-- **PhoneService:** Availability of phone service (Yes or No)
-- **MultipleLines:** Availability of multiple lines (Yes, No, No phone service)
-- **InternetService:** Customer's internet service provider (DSL, Fiber optic, No)
-- **OnlineSecurity:** Presence of online security (Yes, No, No internet service)
-- **OnlineBackup:** Presence of online backup (Yes, No, No internet service)
-- **DeviceProtection:** Presence of device protection (Yes, No, No internet service)
-- **TechSupport:** Presence of tech support (Yes, No, No internet service)
-- **StreamingTV:** Presence of streaming TV (Yes, No, No internet service)
-- **StreamingMovies:** Presence of streaming movies (Yes, No, No internet service)
-- **Contract:** Customer's contract term (Month-to-month, One year, Two years)
-- **PaperlessBilling:** Usage of paperless billing (Yes or No)
-- **PaymentMethod:** Customer's payment method (Electronic check, Mailed check, Bank transfer (automatic), Credit card (automatic))
-- **MonthlyCharges:** Monthly charge to the customer
-- **TotalCharges:** Total amount charged to the customer
-- **Churn:** Customer churn status (Yes or No)
+2. **Customer Profile Details:**
+   Highlighting key customer-related information, covering aspects like demographics, service usage, contract terms, billing preferences, and payment methods.
 
-## Notebook Contents
+3. **Internet and Service Features:**
+   Elaborating on the availability of internet services and specific features such as online security, backup, device protection, tech support, streaming TV, and streaming movies.
 
-1. **Dataset Information**
-2. **Exploratory Data Analysis (EDA)**
-3. **Summary of EDA**
-4. **Feature Engineering**
-5. **Modeling**
-6. **Conclusion**
+4. **Contract and Billing Information:**
+   Describing the terms of customer contracts, paperless billing preferences, payment methods employed, and the associated monthly and total charges.
+
+5. **Churn Status and Analytics Process:**
+   Delving into the critical aspect of customer churn, outlining the notebook's contents, which include Dataset Information, Exploratory Data Analysis (EDA), Summary of EDA, Feature Engineering, Modeling, and a Conclusion.
 
 ## References
 
