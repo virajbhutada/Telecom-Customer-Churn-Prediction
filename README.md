@@ -56,9 +56,9 @@ The primary objective is to develop a robust predictive model capable of classif
 
 ### Cloning the Repository:
 
-```bash
-git clone https://github.com/your_username/your_repository.git
-cd your_repository
+```
+git clone https://github.com/virajbhutada/Telecommunications_Customer_Attrition_Prediction.git
+cd Telecommunications_Customer_Attrition_Prediction
 ```
 
 ### Dataset Usage:
