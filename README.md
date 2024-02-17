@@ -1,6 +1,7 @@
 # Telecommunications Customer Attrition Prediction
 Predict and prevent customer churn in the telecom industry with this project. Leverage advanced analytics and machine learning on a diverse dataset to build a robust classification model. Clone the repository, explore insights, and enhance customer retention strategies.
 
+---
 
 ## Problem Statement
 
@@ -8,7 +9,9 @@ In the dynamic landscape of the telecommunications industry, customers wield the
 
 Churn rate, a key metric representing the number of customers who terminate or do not renew their subscriptions, directly impacts revenue. Given the high costs associated with acquiring new customers, an in-depth churn analysis is imperative. Insights derived from this analysis empower companies to formulate strategic approaches, target specific segments, enhance service quality, and ultimately foster trust with their customers. Building predictive models and generating comprehensive reports through churn analysis thus becomes instrumental in driving sustainable growth.
 
-## Aim
+---
+
+## Objective
 
 The primary objective is to develop a robust predictive model capable of classifying potential churn customers based on a comprehensive set of numerical and categorical features. This poses a binary classification challenge, considering the inherent imbalance in the dataset.
 
@@ -27,6 +30,8 @@ The primary objective is to develop a robust predictive model capable of classif
 5. **Churn Status and Analytics Process:**
    Delving into the critical aspect of customer churn, outlining the notebook's contents, which include Dataset Information, Exploratory Data Analysis (EDA), Summary of EDA, Feature Engineering, Modeling, and a Conclusion.
 
+---
+
 ## References
 
 - [Average Customer Acquisition Cost by Industry](https://hockeystack.com/blog/average-customer-acquisition-cost-by-industry/)
@@ -34,14 +39,18 @@ The primary objective is to develop a robust predictive model capable of classif
 - [Understanding Customer Churn Rate](https://www.zendesk.com/in/blog/customer-churn-rate/#georedirect)
 - [Churn Prevention Strategies](https://www.profitwell.com/customer-churn/churn-prevention)
 
+---
+
 ## How to Clone and Use
 
 ### Cloning the Repository:
 
 ```
-git clone https://github.com/virajbhutada/Telecommunications_Customer_Attrition_Prediction.git
-cd Telecommunications_Customer_Attrition_Prediction
+git clone https://github.com/virajbhutada/Telecommunications-Customer-Attrition-Prediction.git
+cd Telecommunications-Customer-Attrition-Prediction
 ```
+
+---
 
 ### Dataset Usage:
 
@@ -50,3 +59,9 @@ cd Telecommunications_Customer_Attrition_Prediction
 3. Utilize the dataset for Telco Customer Churn Classification analysis.
 
 Feel free to adapt the above steps based on your specific use case and programming environment.
+
+---
+
+## Connect With Me 🌐
+
+**[![LinkedIn](https://img.shields.io/badge/LinkedIn-Viraj%20Bhutada-blue?logo=linkedin)](https://www.linkedin.com/in/virajnbhutada24/)**
