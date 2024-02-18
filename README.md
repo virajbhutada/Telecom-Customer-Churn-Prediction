@@ -1,5 +1,5 @@
 # Telecom Customer Churn Prediction
-Predict and prevent customer churn in the telecom industry with this project. Leverage advanced analytics and machine learning on a diverse dataset to build a robust classification model. Clone the repository, explore insights, and enhance customer retention strategies.
+Predicting customer churn in the telecommunications industry is crucial for companies to retain customers and improve overall profitability. This repository contains a predictive model for identifying customers at risk of churn, along with tools and resources for analyzing churn patterns and implementing strategies to mitigate customer attrition.
 
 ---
 
