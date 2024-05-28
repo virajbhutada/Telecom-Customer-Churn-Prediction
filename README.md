@@ -1,4 +1,8 @@
 # Telecom Customer Churn Prediction
+
+[![Watch the video](https://github.com/virajbhutada/Telecom-Customer-Churn-Prediction/assets/143819712/9887363c-ab37-4c8b-bc7b-d194de980df7)](https://youtu.be/Gyn0tUcPSiA?si=S_o_kkJSe6mDmy3s)
+
+
 Predicting customer churn in the telecommunications industry is crucial for companies to retain customers and improve overall profitability. This repository contains a predictive model for identifying customers at risk of churn, along with tools and resources for analyzing churn patterns and implementing strategies to mitigate customer attrition.
 
 ---
