@@ -9,7 +9,7 @@ Predicting customer churn in the telecommunications industry is crucial for comp
 
 ---
 
-## Problem Statement-
+## Problem Statement
 
 In the dynamic landscape of the telecommunications industry, customers wield the power to choose from a plethora of service providers for their communication and internet needs. Customer satisfaction plays a pivotal role as users often form opinions about an entire company based on a single interaction. The ubiquitous nature of communication services, intertwined with our daily lives, underscores the significance of understanding and mitigating customer churn.
 
