@@ -18,7 +18,6 @@ Predicting customer churn in the telecommunications industry is crucial for comp
 - [Key Findings](#key-findings)
 - [References](#references)
 - [Usage Instructions](#usage-instructions)
-- [Connect With Me](#connect-with-me)
 
 ---
 
@@ -162,7 +161,7 @@ Feel free to adapt the above steps based on your specific use case and programmi
 
 ---
 
-## Connect With Me 
+### Connect With Me 
 
 **[![LinkedIn](https://img.shields.io/badge/LinkedIn-Viraj%20Bhutada-blue?logo=linkedin)](https://www.linkedin.com/in/virajnbhutada24/)**
 
