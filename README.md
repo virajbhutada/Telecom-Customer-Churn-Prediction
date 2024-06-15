@@ -163,7 +163,7 @@ Explore interactive Power BI visualizations designed to enhance data exploration
 
 ---
 
-### Running the Project
+## Running the Project
 
 - **Start the Application:** Execute the following command to run the project.
 
@@ -194,7 +194,7 @@ Explore interactive Power BI visualizations designed to enhance data exploration
   
 ---
 
-### Deployment Steps
+## Deployment Steps
 
 - **Select a Hosting Service:** Choose a reputable hosting platform such as Heroku, AWS, Azure, or PythonAnywhere.
 
