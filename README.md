@@ -18,6 +18,7 @@ Predicting customer churn in the telecommunications industry is crucial for comp
 - [Key Findings](#key-findings)
 - [References](#references)
 - [Usage Instructions](#usage-instructions)
+- [Running the Project](#Running-the-Project)
 
 ---
 
@@ -133,23 +134,97 @@ Explore interactive Power BI visualizations designed to enhance data exploration
 
 ### Getting Started
 
-1. **Clone the Repository:**
+- **Clone the Repository**
 
   ```` 
    git clone https://github.com/virajbhutada/Telecom-Customer-Churn-Prediction-ML-PowerBI.git
    cd Telecom-Customer-Churn-Prediction
    ````
 
-2. **Dataset Handling:**
+- Install the project dependencies by running the following command
+
+   ```
+   pip install -r requirements.txt
+   ```
+
+- Navigate through the project's directories and files to get acquainted with its structure.
+
+
+- **Dataset Handling:**
 
    - Load the dataset using Python, R, or your preferred data analysis tool.
    - Explore and preprocess data to prepare for churn prediction modeling.
 
-3. **Model Development:**
+- **Model Development:**
 
    - Train and evaluate machine learning models to predict customer churn.
    - Fine-tune models based on performance metrics to optimize predictions.
 
+---
+
+### Running the Project
+
+- **Start the Application:**
+   - Execute the following command to run the project.
+
+   ```bash
+   python app.py
+   ```
+
+   - After you have successfully installed and launched the project, you can utilize it to forecast customer churn. Follow these steps to begin:
+
+- **Access the Web Interface:**
+
+   - Open your web browser and navigate to:
+
+   ```
+   http://127.0.0.1:5000/
+   ```
+
+   - Upon accessing the interface, you'll encounter a user-friendly web application. Take time to familiarize yourself with its features and explore the various options available for predicting outcomes.
+
+<div style="text-align: center;">
+<img src="https://github.com/virajbhutada/Telecom-Customer-Churn-Prediction-ML-PowerBI/assets/143819712/449870c8-753d-4062-8b6c-8c41d470af95" alt="web interface" width="700" height="350">
+</div>
+
+- **Input Customer Data:**
+  
+   - Refer to the on-screen instructions for guidance on entering customer data into the system. Once entered, explore the prediction feature to forecast churn outcomes based on the data provided.
+
+<div style="text-align: center;">
+  <img src="https://github.com/virajbhutada/Telecom-Customer-Churn-Prediction-ML-PowerBI/assets/143819712/e853d58d-83ec-4ca4-a1f4-5a1f549033a5" alt="prediction results" width="700" height="350">
+</div>
+
+
+- **Analyze Results:**
+  
+  - Review the prediction outcomes to gather insights and formulate strategies, such as designing targeted promotions, and effectively applying the project to specific scenarios, such as implementing enticing customer offers.
+  
+---
+
+### Deployment Steps
+
+- **Select a Hosting Service:** Choose a reputable hosting platform such as Heroku, AWS, Azure, or PythonAnywhere.
+
+- **Create an Account:** Register an account on your chosen hosting platform if you haven't already.
+
+- **Prepare for Deployment:** Ensure your project complies with the hosting service's requirements, including configuration files and dependencies.
+
+- **Deploy Your Project:** Utilize the deployment tools or instructions provided by the hosting platform to launch your project.
+
+- **Access Your Deployed Application:** Visit the URL provided by the hosting platform to interact with your deployed application.
+
+For comprehensive deployment guidelines tailored to your selected hosting service, consult their official documentation.
+
+Experience the deployed version of the Telecom Churn Prediction project!
+
+<p align="center">
+  <a href="https://churnprediction.pythonanywhere.com/" style="color:#FF5733;">
+     Explore Deployed Web App
+  </a>
+</p>
+
+---
 
 ### Dataset Usage:
 
@@ -164,5 +239,4 @@ Feel free to adapt the above steps based on your specific use case and programmi
 ### Connect With Me 
 
 **[![LinkedIn](https://img.shields.io/badge/LinkedIn-Viraj%20Bhutada-blue?logo=linkedin)](https://www.linkedin.com/in/virajnbhutada24/)**
-
 
