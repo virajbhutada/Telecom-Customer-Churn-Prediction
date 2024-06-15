@@ -209,7 +209,7 @@ Explore interactive Power BI visualizations designed to enhance data exploration
 For comprehensive deployment guidelines tailored to your selected hosting service, consult their official documentation. Experience the deployed version of the Telecom Churn Prediction project!
 
 <p align="center">
-  <a href="https://churnprediction.pythonanywhere.com/" style="color:#FF5733;">
+  <a href="https://coral-maurita-35.tiiny.site" style="color:#FF5733;">
      Explore Deployed Web App
   </a>
 </p>
