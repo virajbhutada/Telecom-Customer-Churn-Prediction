@@ -1,0 +1,37 @@
+body {
+  font-weight: bold; /* Set the font weight to bold for all text within the body */
+
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: skyblue;
+
+}
+h1 { 
+color: blue; /* Change the font color to red */
+text-align: center; /* Align the text to the center */
+}
+input { 
+  background-color: lightgray;
+  border-radius: 5px;
+  padding: 5px;
+}
+
+select {
+  background-color: lightgray;
+  border-radius: 5px;
+  padding: 5px;
+
+}
+
+.button-green {
+background-color: lightblue ;
+}
+form {
+  margin: 0 auto; /* Center align the form */
+  text-align: center; /* Center align form elements within the form */
+  width: 400px; /* Adjust the width as per your requirement */
+}
+
+label {
+  font-weight: bold;
+}
