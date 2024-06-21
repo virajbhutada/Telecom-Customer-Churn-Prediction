@@ -106,13 +106,15 @@ Explore interactive Power BI visualizations designed to enhance data exploration
 
 
 
-*Explore the live Power BI dashboard for real-time insights, dynamic data visualization, and comprehensive analytics. Gain actionable intelligence to drive informed decision-making and optimize business performance.*
 
 <p align="center">
   <a href="https://app.powerbi.com/links/t0l3Kk1rqd?ctid=a2e8c89e-7534-4ccf-b1fa-00c12005cb9d&pbi_source=linkShare">
     <img src="https://img.shields.io/badge/Power%20BI-Live%20Dashboard-gold?style=for-the-badge&logo=powerbi" alt="Power BI Dashboard">
   </a>
 </p>
+
+
+*Explore the live Power BI dashboard for real-time insights, dynamic data visualization, and comprehensive analytics. Gain actionable intelligence to drive informed decision-making and optimize business performance.*
 
 ---
 
