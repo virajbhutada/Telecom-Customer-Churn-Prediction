@@ -143,7 +143,7 @@ Explore interactive Power BI visualizations designed to enhance data exploration
 - **Clone the Repository**
 
   ```` 
-   git clone https://github.com/virajbhutada/Telecom-Customer-Churn-Prediction-ML-PowerBI.git
+   git clone https://github.com/virajbhutada/Telecom-Customer-Churn-Prediction.git
    cd Telecom-Customer-Churn-Prediction
    ````
 
