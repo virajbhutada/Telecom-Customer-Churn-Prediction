@@ -6,9 +6,16 @@ In today's competitive telecom industry, retaining customers is more important t
 
 This repository includes everything needed to analyze customer churn, from the dataset to the code used for predictions. It also offers insights into key factors driving customer attrition and suggests strategies to help telecom companies improve customer retention. For a quick overview, watch the YouTube video linked below.
 
----
 
-[![Watch the video](https://github.com/virajbhutada/Telecom-Customer-Churn-Prediction/assets/143819712/9887363c-ab37-4c8b-bc7b-d194de980df7)](https://youtu.be/Gyn0tUcPSiA?si=S_o_kkJSe6mDmy3s)
+
+
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?si=S_o_kkJSe6mDmy3s&v=Gyn0tUcPSiA&feature=youtu.be" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-Video-red?logo=youtube&style=flat" alt="Watch on YouTube" />
+  </a>
+</p>
+
 
 ---
 
