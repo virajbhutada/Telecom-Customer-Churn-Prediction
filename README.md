@@ -1,6 +1,10 @@
+![Screenshot 2024-09-15 101758](https://github.com/user-attachments/assets/b0b6dfaf-2cff-473d-a3e3-9c01c67e584b)
+
 # Telecom Customer Churn Attrition Prediction
 
-Predicting customer churn in the telecommunications industry is crucial for companies to retain customers and improve overall profitability. This repository contains a predictive model for identifying customers at risk of churn, along with tools and resources for analyzing churn patterns and implementing strategies to mitigate customer attrition. Watch the YouTube video below for a quick overview:
+In today's competitive telecom industry, retaining customers is more important than ever. Customer churn, or when users leave for another provider, can significantly impact a company's bottom line. This project focuses on building a predictive model to help identify which customers are likely to leave based on their usage patterns, behavior, and other factors. By understanding these patterns, companies can take early action to keep their customers happy and reduce churn.
+
+This repository includes everything needed to analyze customer churn, from the dataset to the code used for predictions. It also offers insights into key factors driving customer attrition and suggests strategies to help telecom companies improve customer retention. For a quick overview, watch the YouTube video linked below.
 
 ---
 
