@@ -2,7 +2,7 @@
 
 # Telecom Customer Churn Attrition Prediction
 
-In today's competitive telecom industry, retaining customers is more important than ever. Customer churn, or when users leave for another provider, can significantly impact a company's bottom line. This project focuses on building a predictive model to help identify which customers are likely to leave based on their usage patterns, behavior, and other factors. By understanding these patterns, companies can act early to keep their customers happy and reduce churn.
+In today's competitive telecom industry, retaining customers is more important than ever. Customer churn, or when users leave for another provider, can significantly impact a company's bottom line. This project focuses on building a predictive model to help identify which customers are likely to leave based on their usage patterns, behavior, and other factors. By understanding these patterns, companies can act early to keep customers happy and reduce churn.
 
 This repository includes everything needed to analyze customer churn, from the dataset to the code used for predictions. It also offers insights into key factors driving customer attrition and suggests strategies to help telecom companies improve customer retention. For a quick overview, watch the YouTube video linked below.
 
