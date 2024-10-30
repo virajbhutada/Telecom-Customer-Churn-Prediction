@@ -214,13 +214,13 @@ Explore interactive Power BI visualizations designed to enhance data exploration
 
 - **Select a Hosting Service:** Choose a reputable hosting platform such as Heroku, AWS, Azure, or PythonAnywhere.
 
-- **Create an Account:** Register an account on your chosen hosting platform if you haven't already.
+- **Create an Account:** If you haven't already, Register an account on your chosen hosting platform.
 
 - **Prepare for Deployment:** Ensure your project complies with the hosting service's requirements, including configuration files and dependencies.
 
-- **Deploy Your Project:** Utilize the deployment tools or instructions provided by the hosting platform to launch your project.
+**Deploy Your Project:** Launch your project using the deployment tools or instructions provided by the hosting platform.
 
-- **Access Your Deployed Application:** Visit the URL provided by the hosting platform to interact with your deployed application.
+**Access Your Deployed Application:** To interact with your deployed application, Visit the URL provided by the hosting platform.
 
 For comprehensive deployment guidelines tailored to your selected hosting service, consult their official documentation. Experience the deployed [version](https://coral-maurita-35.tiiny.site) of the Telecom Churn Prediction project!
 
